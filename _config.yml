@@ -2,7 +2,7 @@ title: gT0's blog
 description: computer science, IT, linux, system administrator and other disquisitions
 author: Giovanni Tommasini
 github: https://github.com/tommasinigiovanni
-about: Be pitiful, for every man is fighting a hard battle. || Ogni persona che incontri sta combattendo una battaglia di cui non sai nulla. Sii gentile. Sempre
+about: Be pitiful, for every man is fighting a hard battle. // Ogni persona che incontri sta combattendo una battaglia di cui non sai nulla. Sii gentile. Sempre
 disqus_shortname: giovannitommasini
 google_analytics: UA-XXXXXXXX-Y
 
@@ -32,11 +32,11 @@ share:
 
 urls:
     - text: About Me
-      url: /about/
+      url: {{ site.url }}/about/
     - text: My Projects
-      url: /projects/
+      url: {{ site.url }}/projects/
     - text: XML Feed
-      url: /feed.xml
+      url: {{ site.url }}/feed.xml
 
 url: "https://tommasinigiovanni.github.io/blog"
 baseurl: "/blog"
