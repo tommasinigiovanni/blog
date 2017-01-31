@@ -38,8 +38,8 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://tommasinigiovanni.github.io/blog/"
-baseurl: "/blog/"
+url: "https://tommasinigiovanni.github.io/blog"
+baseurl: "/blog"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
