@@ -5,8 +5,8 @@
     <description>My Personal Blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Jan 2017 14:56:06 +0100</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2017 14:56:06 +0100</lastBuildDate>
+    <pubDate>Tue, 31 Jan 2017 15:08:21 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 15:08:21 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -104,20 +104,20 @@ monit -t
 
 &lt;h2 id=&quot;linkography&quot;&gt;Linkography&lt;/h2&gt;
 &lt;ol&gt;
-  &lt;li&gt;https://mmonit.com/monit/&lt;/li&gt;
-  &lt;li&gt;https://easyengine.io/tutorials/monitoring/monit/&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mmonit.com/monit/&quot;&gt;https://mmonit.com/monit/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://easyengine.io/tutorials/monitoring/monit/&quot;&gt;https://easyengine.io/tutorials/monitoring/monit/&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/linux%20system%20administrator/it/linux/2017/01/31/monit520-on-ubuntu1004.html</link>
-        <guid isPermaLink="true">http://localhost:4000/linux%20system%20administrator/it/linux/2017/01/31/monit520-on-ubuntu1004.html</guid>
+        <link>http://localhost:4000/linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</link>
+        <guid isPermaLink="true">http://localhost:4000/linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</guid>
         
         
-        <category>linux system administrator</category>
+        <category>linux</category>
         
         <category>IT</category>
         
-        <category>linux</category>
+        <category>system administrator</category>
         
       </item>
     
