@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-For more information about me visit my website at tommasinigiovanni.github.io
+For more information about me visit my [website](tommasinigiovanni.github.io)
 
-email: tommasini.giovanni[at]pgmail.com
+email: tommasini.giovanni[at]gmail.com

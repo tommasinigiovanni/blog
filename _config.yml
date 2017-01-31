@@ -3,7 +3,7 @@ description: My Personal Blog
 author: Giovanni Tommasini
 github: https://github.com/tommasinigiovanni
 about: Ogni persona che incontri sta combattendo una battaglia di cui non sai nulla. Sii gentile. Sempre
-disqus_shortname: stackproblems
+disqus_shortname: giovanni_tommasini
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -28,7 +28,7 @@ social:
 
 share:
   twitter_username: giovi_tom
-  fb_appid: 
+  fb_appid:
 
 urls:
     - text: About Me
