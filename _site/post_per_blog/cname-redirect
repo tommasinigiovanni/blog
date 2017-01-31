@@ -1,7 +1,0 @@
-nella configurazione del mio DNS aggiungo
-SOURCE: blog
-type: CNAME
-target: tommasinigiovanni.github.io
-
-e poi nella root di github.io aggiungo un file di nome CNAME con il solo contenuto
-blog.gt0.it
