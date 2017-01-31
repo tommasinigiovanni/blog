@@ -3,10 +3,10 @@
   <channel>
     <title>gT0 blog</title>
     <description>My Personal Blog</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Jan 2017 15:12:23 +0100</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2017 15:12:23 +0100</lastBuildDate>
+    <link>http://localhost:4000/blog//</link>
+    <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 31 Jan 2017 18:07:18 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 18:07:18 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -109,8 +109,8 @@ monit -t
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</link>
-        <guid isPermaLink="true">http://localhost:4000/linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</guid>
+        <link>http://localhost:4000/blog//linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</guid>
         
         
         <category>linux</category>
@@ -194,8 +194,8 @@ monit -t
 &lt;p&gt;&lt;em&gt;Original source:&lt;/em&gt; &lt;a href=&quot;https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/&quot;&gt;&lt;em&gt;https://tryolabs.com/blog/2016/12/20/top-10-python…&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Dec 2016 12:34:10 +0100</pubDate>
-        <link>http://localhost:4000/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
+        <link>http://localhost:4000/blog//python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
         
         
         <category>python</category>
@@ -253,8 +253,8 @@ monit -t
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 22:43:45 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/10/get-month-name-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/10/get-month-name-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/06/10/get-month-name-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/06/10/get-month-name-cf.html</guid>
         
         
         <category>python</category>
@@ -313,8 +313,8 @@ Output: 0
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 22:39:03 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/10/find-the-number-of-even-digits-in-the-given-integer-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/10/find-the-number-of-even-digits-in-the-given-integer-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/06/10/find-the-number-of-even-digits-in-the-given-integer-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/06/10/find-the-number-of-even-digits-in-the-given-integer-cf.html</guid>
         
         
         <category>python</category>
@@ -390,8 +390,8 @@ Finally, all the new strings are concatenated together in the same order and a n
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 22:04:23 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/10/find-substrings-for-line-encoding-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/10/find-substrings-for-line-encoding-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/06/10/find-substrings-for-line-encoding-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/06/10/find-substrings-for-line-encoding-cf.html</guid>
         
         
         <category>python</category>
@@ -492,8 +492,8 @@ Expected Output: &quot;The MAGIC words are fiz buzz and plaf&quot;
 &lt;p&gt;Thanks to &lt;strong&gt;GOD&lt;/strong&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 May 2016 23:17:54 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/21/censorthis-censor-the-words-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/21/censorthis-censor-the-words-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/05/21/censorthis-censor-the-words-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/05/21/censorthis-censor-the-words-cf.html</guid>
         
         
         <category>python</category>
@@ -549,8 +549,8 @@ Expected Output: &quot;The MAGIC words are fiz buzz and plaf&quot;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 May 2016 23:10:03 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/21/notpaired-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/21/notpaired-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/05/21/notpaired-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/05/21/notpaired-cf.html</guid>
         
         
         <category>python</category>
@@ -608,8 +608,8 @@ x reversed as described above.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 May 2016 23:04:23 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/21/reverse-bit-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/21/reverse-bit-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/05/21/reverse-bit-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/05/21/reverse-bit-cf.html</guid>
         
         
         <category>python</category>
@@ -636,8 +636,8 @@ x reversed as described above.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 May 2016 09:32:04 +0200</pubDate>
-        <link>http://localhost:4000/python/security/2016/05/21/python-simple-ciphertext.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/security/2016/05/21/python-simple-ciphertext.html</guid>
+        <link>http://localhost:4000/blog//python/security/2016/05/21/python-simple-ciphertext.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/security/2016/05/21/python-simple-ciphertext.html</guid>
         
         
         <category>python</category>
@@ -683,8 +683,8 @@ End time      : 06:53:06
 &lt;p&gt;For more you can checkout on our repository: &lt;a href=&quot;https://github.com/agusmakmun/Crazy-Decrypter&quot;&gt;https://github.com/agusmakmun/Crazy-Decrypter&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 May 2016 09:25:20 +0200</pubDate>
-        <link>http://localhost:4000/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</guid>
+        <link>http://localhost:4000/blog//python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</guid>
         
         
         <category>python</category>

@@ -3,10 +3,10 @@
   <channel>
     <title>gT0 blog</title>
     <description>My Personal Blog</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Jan 2017 15:12:23 +0100</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2017 15:12:23 +0100</lastBuildDate>
+    <link>http://localhost:4000/blog//</link>
+    <atom:link href="http://localhost:4000/blog//sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 31 Jan 2017 18:07:18 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 18:07:18 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -109,8 +109,8 @@ monit -t
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</link>
-        <guid isPermaLink="true">http://localhost:4000/linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</guid>
+        <link>http://localhost:4000/blog//linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//linux/it/system%20administrator/2017/01/31/monit520-on-ubuntu1004.html</guid>
         
         
         <category>linux</category>
@@ -194,8 +194,8 @@ monit -t
 &lt;p&gt;&lt;em&gt;Original source:&lt;/em&gt; &lt;a href=&quot;https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/&quot;&gt;&lt;em&gt;https://tryolabs.com/blog/2016/12/20/top-10-python…&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Dec 2016 12:34:10 +0100</pubDate>
-        <link>http://localhost:4000/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
+        <link>http://localhost:4000/blog//python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
         
         
         <category>python</category>
@@ -253,8 +253,8 @@ monit -t
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 22:43:45 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/10/get-month-name-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/10/get-month-name-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/06/10/get-month-name-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/06/10/get-month-name-cf.html</guid>
         
         
         <category>python</category>
@@ -313,8 +313,8 @@ Output: 0
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 22:39:03 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/10/find-the-number-of-even-digits-in-the-given-integer-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/10/find-the-number-of-even-digits-in-the-given-integer-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/06/10/find-the-number-of-even-digits-in-the-given-integer-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/06/10/find-the-number-of-even-digits-in-the-given-integer-cf.html</guid>
         
         
         <category>python</category>
@@ -390,8 +390,8 @@ Finally, all the new strings are concatenated together in the same order and a n
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 22:04:23 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/10/find-substrings-for-line-encoding-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/10/find-substrings-for-line-encoding-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/06/10/find-substrings-for-line-encoding-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/06/10/find-substrings-for-line-encoding-cf.html</guid>
         
         
         <category>python</category>
@@ -492,8 +492,8 @@ Expected Output: &quot;The MAGIC words are fiz buzz and plaf&quot;
 &lt;p&gt;Thanks to &lt;strong&gt;GOD&lt;/strong&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 May 2016 23:17:54 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/21/censorthis-censor-the-words-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/21/censorthis-censor-the-words-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/05/21/censorthis-censor-the-words-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/05/21/censorthis-censor-the-words-cf.html</guid>
         
         
         <category>python</category>
@@ -549,8 +549,8 @@ Expected Output: &quot;The MAGIC words are fiz buzz and plaf&quot;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 May 2016 23:10:03 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/21/notpaired-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/21/notpaired-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/05/21/notpaired-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/05/21/notpaired-cf.html</guid>
         
         
         <category>python</category>
@@ -608,8 +608,8 @@ x reversed as described above.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 May 2016 23:04:23 +0200</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/21/reverse-bit-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/21/reverse-bit-cf.html</guid>
+        <link>http://localhost:4000/blog//python/codefights/2016/05/21/reverse-bit-cf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/codefights/2016/05/21/reverse-bit-cf.html</guid>
         
         
         <category>python</category>
@@ -636,8 +636,8 @@ x reversed as described above.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 May 2016 09:32:04 +0200</pubDate>
-        <link>http://localhost:4000/python/security/2016/05/21/python-simple-ciphertext.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/security/2016/05/21/python-simple-ciphertext.html</guid>
+        <link>http://localhost:4000/blog//python/security/2016/05/21/python-simple-ciphertext.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/security/2016/05/21/python-simple-ciphertext.html</guid>
         
         
         <category>python</category>
@@ -683,8 +683,8 @@ End time      : 06:53:06
 &lt;p&gt;For more you can checkout on our repository: &lt;a href=&quot;https://github.com/agusmakmun/Crazy-Decrypter&quot;&gt;https://github.com/agusmakmun/Crazy-Decrypter&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 May 2016 09:25:20 +0200</pubDate>
-        <link>http://localhost:4000/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</guid>
+        <link>http://localhost:4000/blog//python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</guid>
         
         
         <category>python</category>
@@ -720,8 +720,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 &lt;p&gt;hope it usefull.&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Apr 2016 23:19:22 +0200</pubDate>
-        <link>http://localhost:4000/others/2016/04/25/javascript-validator-for-input-number.html</link>
-        <guid isPermaLink="true">http://localhost:4000/others/2016/04/25/javascript-validator-for-input-number.html</guid>
+        <link>http://localhost:4000/blog//others/2016/04/25/javascript-validator-for-input-number.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//others/2016/04/25/javascript-validator-for-input-number.html</guid>
         
         
         <category>others</category>
@@ -774,8 +774,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Wed, 20 Apr 2016 17:32:34 +0200</pubDate>
-        <link>http://localhost:4000/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html</link>
-        <guid isPermaLink="true">http://localhost:4000/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html</guid>
+        <link>http://localhost:4000/blog//django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html</guid>
         
         
         <category>django</category>
@@ -862,8 +862,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 20 Apr 2016 14:51:02 +0200</pubDate>
-        <link>http://localhost:4000/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html</guid>
+        <link>http://localhost:4000/blog//python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html</guid>
         
         
         <category>python</category>
@@ -907,8 +907,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 20 Apr 2016 04:41:20 +0200</pubDate>
-        <link>http://localhost:4000/python/django/2016/04/20/custom-redirect-urls-django.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/django/2016/04/20/custom-redirect-urls-django.html</guid>
+        <link>http://localhost:4000/blog//python/django/2016/04/20/custom-redirect-urls-django.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/django/2016/04/20/custom-redirect-urls-django.html</guid>
         
         
         <category>python</category>
@@ -949,8 +949,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 &lt;span class=&quot;no&quot;&gt;EMAIL_BACKEND&lt;/span&gt;        &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'postmark.django_backend.EmailBackend'&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 19 Apr 2016 15:15:33 +0200</pubDate>
-        <link>http://localhost:4000/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html</link>
-        <guid isPermaLink="true">http://localhost:4000/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html</guid>
+        <link>http://localhost:4000/blog//django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html</guid>
         
         
         <category>django</category>
@@ -996,8 +996,8 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 
 </description>
         <pubDate>Tue, 19 Apr 2016 14:39:02 +0200</pubDate>
-        <link>http://localhost:4000/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html</guid>
+        <link>http://localhost:4000/blog//bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html</guid>
         
         
         <category>bash</category>
@@ -1022,8 +1022,8 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 19 Apr 2016 14:31:43 +0200</pubDate>
-        <link>http://localhost:4000/python/2016/04/19/python-permutations.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/2016/04/19/python-permutations.html</guid>
+        <link>http://localhost:4000/blog//python/2016/04/19/python-permutations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/2016/04/19/python-permutations.html</guid>
         
         
         <category>python</category>
@@ -1062,8 +1062,8 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 &lt;span class=&quot;c1&quot;&gt;### ===============================================&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 19 Apr 2016 14:19:21 +0200</pubDate>
-        <link>http://localhost:4000/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html</guid>
+        <link>http://localhost:4000/blog//bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html</guid>
         
         
         <category>bash</category>
@@ -1099,8 +1099,8 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 19 Apr 2016 09:39:34 +0200</pubDate>
-        <link>http://localhost:4000/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html</guid>
+        <link>http://localhost:4000/blog//python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html</guid>
         
         
         <category>python</category>
@@ -1131,8 +1131,8 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 18 Apr 2016 21:28:15 +0200</pubDate>
-        <link>http://localhost:4000/python/django/2016/04/18/email-backend-with-smtp-gmail.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/django/2016/04/18/email-backend-with-smtp-gmail.html</guid>
+        <link>http://localhost:4000/blog//python/django/2016/04/18/email-backend-with-smtp-gmail.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//python/django/2016/04/18/email-backend-with-smtp-gmail.html</guid>
         
         
         <category>python</category>
@@ -1202,8 +1202,8 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
 
 </description>
         <pubDate>Sun, 22 Dec 2013 18:18:23 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/2013/12/22/welcome-to-simply-grey.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/2013/12/22/welcome-to-simply-grey.html</guid>
+        <link>http://localhost:4000/blog//jekyll/2013/12/22/welcome-to-simply-grey.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//jekyll/2013/12/22/welcome-to-simply-grey.html</guid>
         
         
         <category>jekyll</category>
@@ -1248,8 +1248,8 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
 
 </description>
         <pubDate>Sun, 22 Dec 2013 18:18:23 +0100</pubDate>
-        <link>http://localhost:4000/ruby/2013/12/22/ruby-json.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ruby/2013/12/22/ruby-json.html</guid>
+        <link>http://localhost:4000/blog//ruby/2013/12/22/ruby-json.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//ruby/2013/12/22/ruby-json.html</guid>
         
         
         <category>ruby</category>
@@ -1274,8 +1274,8 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
 
 </description>
         <pubDate>Tue, 19 Feb 2013 15:28:15 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/2013/02/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/2013/02/19/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/blog//jekyll/2013/02/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//jekyll/2013/02/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
