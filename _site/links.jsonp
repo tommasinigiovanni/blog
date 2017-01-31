@@ -1,0 +1,38 @@
+callback([
+
+  {
+    "text": "Theme Elements",
+    "href": "http://localhost:4444/articles/theme-elements"
+  } ,
+
+  {
+    "text": "Testing Readability with a Bunch of Text",
+    "href": "http://localhost:4444/articles/readability-post"
+  } ,
+
+  {
+    "text": "Post with Cover Image and Text",
+    "href": "http://localhost:4444/theme/readability-feature-post"
+  } ,
+
+  {
+    "text": "Documentation",
+    "href": "http://localhost:4444/theme/documentation"
+  } ,
+
+  {
+    "text": "Introducing Notepad",
+    "href": "http://localhost:4444/personal/introducing-notepad"
+  } ,
+
+  {
+    "text": "Why Jekyll?",
+    "href": "http://localhost:4444/webdevelopment/why-jekyll"
+  } ,
+
+  {
+    "text": "How to install Monit 5.20 on Ubuntu 10.04",
+    "href": "http://localhost:4444/it/monit520-on-ubuntu1004"
+  } 
+
+])

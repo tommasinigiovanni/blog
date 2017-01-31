@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://localhost:4444</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://localhost:4444/404</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/about/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/categories/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/featured/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/links.jsonp</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/search.json</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/tags/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/page2/</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://localhost:4444/it/monit520-on-ubuntu1004</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/webdevelopment/why-jekyll</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/personal/introducing-notepad</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/theme/documentation</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/theme/readability-feature-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/articles/readability-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4444/articles/theme-elements</loc>
+    </url>
+    
+</urlset>
