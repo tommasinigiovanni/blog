@@ -2,7 +2,7 @@
 layout: post
 title: "How to put the monit version in a bash variable"
 date:   2017-02-10
-categories: [linux, IT, system administrator, regex]
+categories: [linux, IT, regex, bash, monit]
 ---
 
 ![Screenshot monit]({{ site.url }}/static/img/monit.png "Monit Logo")
