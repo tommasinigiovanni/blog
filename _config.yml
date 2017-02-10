@@ -16,13 +16,13 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/giovanni.tommasini"
     - icon: fa-twitter
-      link: "https://twitter.com/giovanni.tommasini"
+      link: "https://twitter.com/giovi_tom"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/giovannitommasini"
-    - icon: fa-stack-exchange
-      link: "#"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/giovannitommasini/"
     - icon: fa-github
       link: "https://github.com/tommasinigiovanni"
 
