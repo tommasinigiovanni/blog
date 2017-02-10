@@ -5,8 +5,8 @@ date:   2017-02-10
 categories: [linux, IT, system administrator, regex]
 ---
 
-![Screenshot monit](https://mmonit.com/monit/img/logo.png "Monit Logo")
-![Screenshot regex]({{ site.url }}/static/img/_posts/regex.png "Regex Image")<br/>
+![Screenshot monit]({{ site.url }}/static/img/monit.png "Monit Logo")
+![Screenshot regex]({{ site.url }}/static/img/regex.png "Regex Image")<br/>
 
 I was looking for a way to save in a variable, the monit version installed in my server<br/>
 
