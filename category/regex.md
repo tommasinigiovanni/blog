@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: IT
-title: IT
+categories: regex
+title: Regex
 permalink: /category/regex
 ---
