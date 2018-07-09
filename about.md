@@ -4,6 +4,6 @@ title: About
 permalink: about/
 ---
 
-For more information about me visit my [website](http://www.gT0.it)
+For more information about me visit my [website](http://www.giovanni.tommasini.info)
 
 email: tommasini.giovanni[at]gmail.com
