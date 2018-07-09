@@ -142,15 +142,14 @@ tmpfs                           200M   30M  171M  15% /run
 
 Let's now resize file system with with last 3 command
 {% highlight bash %}
-user@vm $
-sync
-resize2fs /dev/mapper/rep--voce--vg-root
-sync
+user@vm $sync
+user@vm $resize2fs /dev/mapper/rep--voce--vg-root
+user@vm $sync
 {% endhighlight %}
 
 And then with `df -h` you can verify the new partition size
 {% highlight bash %}
-user@vm $
+user@vm $df -h
 Filesystem                      Size  Used Avail Use% Mounted on
 udev                            972M     0  972M   0% /dev
 tmpfs                           200M   30M  171M  15% /run
