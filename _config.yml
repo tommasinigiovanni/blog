@@ -15,10 +15,10 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "https://www.facebook.com/giovanni.tommasini"
+    #- icon: fa-facebook
+    #  link: "https://www.facebook.com/giovanni.tommasini"
     - icon: fa-twitter
-      link: "https://twitter.com/giovi_tom"
+      link: "https://twitter.com/giovitommasini"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/giovannitommasini"
     - icon: fa-stack-exchange
@@ -27,7 +27,7 @@ social:
       link: "https://github.com/tommasinigiovanni"
 
 share:
-  twitter_username: giovi_tom
+  twitter_username: giovitommasini
   fb_appid:
 
 urls:
